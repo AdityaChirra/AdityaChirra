@@ -46,15 +46,6 @@ Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE · Subquer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaChirra&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChirra&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AdityaChirra&theme=default&hide_border=true)
-
 ---
 
 ## 🔭 What's Next
