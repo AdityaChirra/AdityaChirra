@@ -1,41 +1,89 @@
-# 👋 Hey, I'm Aditya
+# Hi, I'm Aditya Chirra 👋
 
-**18 • Building things with data • BTech CSE (AI)**
-
-I'm not here to just write queries. I'm here to figure out what the numbers actually mean.
-
-Right now I'm deep in data analysis and SQL—working on end-to-end projects where I have to think, not just execute. Long term? I want to build something of my own. For now, I'm focused on getting good, shipping work, and landing my first role in data.
-
----
-
-## 🛠 What I actually work with
-
-**SQL (the good stuff)**
-PostgreSQL · Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE
-
-**Python**
-Pandas · NumPy · EDA · Data Cleaning
-
-**Visualization**
-Matplotlib · Seaborn · Power BI *(learning)* · Tableau *(learning)*
-
-**Tools**
-Git · GitHub · pgAdmin · psql CLI
+**Data Analyst · BTech CSE (AI) · 18**  
+I turn raw data into decisions. Not just queries — actual answers to actual problems.  
+Currently building end-to-end projects, going deep on ML/AI, and working toward my first data role.  
+Long-term? Building something of my own.
 
 ---
 
-## 📂 Projects that matter
+## 🧠 Core Skills
 
-| Project | What it is |
-|--------|------------|
-| [**ride-sharing-sql-analytics**](https://github.com/AdityaChirra/ride-sharing-sql-analytics) | End-to-end SQL deep dive into a ride-sharing platform. 85,000+ trips analyzed—revenue patterns, driver performance, where the money leaks. Real problems, real queries, real answers. |
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**SQL (Deep)**  
+Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE · Subqueries · Query Optimization
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Currently Learning**  
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 📬 Find me
+## 📂 Featured Projects
 
-[LinkedIn](https://www.linkedin.com/in/aditya-chirra-5baa07364/) · [Instagram](https://www.instagram.com/aditya.c4a/) · [adityachirra8@gmail.com](mailto:adityachirra8@gmail.com)
+### [🚖 End-to-End Ride-Hailing Analytics Pipeline — SQL](https://github.com/AdityaChirra/end-to-end-ride-hailing-analytics-pipeline-sql)
+
+> *Why does a profitable system still bleed money?*
+
+SQL analytics on a Hyderabad ride-sharing platform — 85,000+ trips, ₹23.8M revenue, ₹5.4M total profit.
+
+**The problem wasn't demand. It was synchronization.**
+
+- Avg profit/trip: ₹70.95 on ₹311.47 revenue — razor-thin margins where every inefficiency costs
+- Peak hours (17:00–20:00) generated the most revenue *and* the most losses simultaneously
+- Top revenue zones (HITEC City, Gachibowli) were also the top loss zones — growth and inefficiency in the same place
+- Airport routes averaged ₹982/trip (3× system average) — behaves like a separate business entirely
+- Driver performance spread: top performers at ₹400+/trip vs bottom at under ₹200 — behavioral, not random
+- 9,074 incomplete trips = direct revenue leakage, following a pattern by zone and hour
+
+**Stack:** PostgreSQL · pgAdmin · Advanced SQL (CTEs, Window Functions, Aggregations)
 
 ---
 
-*Building now. Thinking always.*
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaChirra&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChirra&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaChirra&theme=default&hide_border=true)
+
+---
+
+## 🔭 What's Next
+
+- Getting into Machine Learning — regression, classification, model evaluation
+- Building projects that connect SQL + Python + ML end-to-end
+- Power BI & Tableau — going from learning to production-ready dashboards
+- Landing my first data role — open to anywhere
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chirra-5baa07364/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aditya.c4a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityachirra8@gmail.com)
+
+---
+
+*Open to anywhere · Always building · Always thinking.*
