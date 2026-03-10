@@ -43,18 +43,10 @@ Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE · Subquer
 
 > *Why does a profitable system still bleed money?*
 
-SQL analytics on a Hyderabad ride-sharing platform — 85,000+ trips, ₹23.8M revenue, ₹5.4M total profit.
+85,000+ trips · ₹23.8M revenue · ₹5.4M profit — yet losses concentrated in the same zones, hours, and drivers.
+Diagnosed a synchronization problem, not a demand problem. Peak hours, airport outliers, and driver variance mapped to root causes.
 
-**The problem wasn't demand. It was synchronization.**
-
-- Avg profit/trip: ₹70.95 on ₹311.47 revenue — razor-thin margins where every inefficiency costs
-- Peak hours (17:00–20:00) generated the most revenue *and* the most losses simultaneously
-- Top revenue zones (HITEC City, Gachibowli) were also the top loss zones — growth and inefficiency in the same place
-- Airport routes averaged ₹982/trip (3× system average) — behaves like a separate business entirely
-- Driver performance spread: top performers at ₹400+/trip vs bottom at under ₹200 — behavioral, not random
-- 9,074 incomplete trips = direct revenue leakage, following a pattern by zone and hour
-
-**Stack:** PostgreSQL · pgAdmin · Advanced SQL (CTEs, Window Functions, Aggregations)
+**Stack:** PostgreSQL · pgAdmin · CTEs · Window Functions · Aggregations
 
 ---
 
