@@ -40,13 +40,9 @@ Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE · Subquer
 ## 📂 Featured Projects
 
 ### [🚖 End-to-End Ride-Hailing Analytics Pipeline — SQL](https://github.com/AdityaChirra/end-to-end-ride-hailing-analytics-pipeline-sql)
-
-> *Why does a profitable system still bleed money?*
-
-85,000+ trips · ₹23.8M revenue · ₹5.4M profit — yet losses concentrated in the same zones, hours, and drivers.
-Diagnosed a synchronization problem, not a demand problem. Peak hours, airport outliers, and driver variance mapped to root causes.
-
-**Stack:** PostgreSQL · pgAdmin · CTEs · Window Functions · Aggregations
+- 85,000+ trips analyzed across Hyderabad — revenue, driver performance, and loss patterns
+- Identified peak-hour demand-supply gaps and airport segment as a 3× revenue outlier
+- Mapped losses to specific zones, hours, and drivers — structural problem, not random inefficiency
 
 ---
 
