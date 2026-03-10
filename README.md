@@ -12,11 +12,11 @@ Long-term? Building something of my own.
 **Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![CTEs](https://img.shields.io/badge/CTEs-4479A1?style=flat)
+![Window Functions](https://img.shields.io/badge/Window%20Functions-4479A1?style=flat)
+![Aggregations](https://img.shields.io/badge/Aggregations-4479A1?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**SQL (Deep)**  
-Joins · CTEs · Window Functions · Aggregations · CASE · COALESCE · Subqueries · Query Optimization
 
 **Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
